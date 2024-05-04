@@ -9,8 +9,8 @@
 
     <Button
         android:id="@+id/btnPrintName"
-        android:layout_width="121dp"
-        android:layout_height="58dp"
+        android:layout_width="158dp"
+        android:layout_height="53dp"
         android:backgroundTint="#FFFFFF"
         android:fontFamily="@font/poppins_bold"
         android:text="Imprimir"
